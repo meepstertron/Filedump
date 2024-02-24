@@ -5,7 +5,7 @@
         "file": "textures/badges/gold_medal.png",
         "height": 6,
         "ascent": 5,
-        "chars": "\uE001"
+        "chars": ["\uE001"]
       },
 
       {
@@ -13,7 +13,7 @@
         "file": "textures/badges/blue_flower_medal.png",
         "height": 6,
         "ascent": 5,
-        "chars": "\uE002"
+        "chars": ["\uE002"]
       },
 
       {
@@ -21,8 +21,8 @@
         "file": "textures/badges/trusted.png",
         "height": 6,
         "ascent": 5,
-        "chars": "\uE003"
-      }
+        "chars": ["\uE003"]
+    }     
     ]
   }
   
