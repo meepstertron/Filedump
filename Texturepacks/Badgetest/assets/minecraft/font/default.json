@@ -2,7 +2,7 @@
     "providers": [
       {
         "type": "bitmap",
-        "file": "minecraft:badges/gold_medal.png",
+        "file": "textures/badges/gold_medal.png",
         "height": 6,
         "ascent": 5,
         "chars": ["\uE001"]
@@ -10,7 +10,7 @@
 
       {
         "type": "bitmap",
-        "file": "minecraft:badges/blue_flower_medal.png",
+        "file": "textures/badges/blue_flower_medal.png",
         "height": 6,
         "ascent": 5,
         "chars": ["\uE002"]
@@ -18,7 +18,7 @@
 
       {
         "type": "bitmap",
-        "file": "minecraft:badges/trusted.png",
+        "file": "textures/badges/trusted.png",
         "height": 6,
         "ascent": 5,
         "chars": ["\uE003"]
